@@ -27,7 +27,6 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "pling": "^1.0.0-rc.6",
     "translator": "ljobse/translatr#fd2eccd"
   }
 }

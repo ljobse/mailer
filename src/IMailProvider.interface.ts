@@ -1,8 +1,4 @@
 export default interface IMailProvider<TData> {
-  new (from: { name: string; email: string }, replyTo: string): IMailProvider<
-    TData
-  >;
-
   send(
     to:
       | string
